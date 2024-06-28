@@ -1,0 +1,183 @@
+Stock Name,Symbol,Lot Size,Sector Name,Industry Name,MCap Category,Close,Chg %,Cumulative Future OI,OI Chg %,Volume (Times),Delivery (Times),Cumulative Call OI,Cumulative Put OI,Put Call Ratio (PCR),PCR Change 1D,OI Trend,Symbol with Comma for External Upload,%DlyQttoTradedQty,Date,Rollover
+Interglobe Aviation Ltd.,INDIGO,300.0,Aviation,Airlines,Large Cap,4369.5,-4.32,8277000.0,51.69,2.47,1.97,4948200.0,2730600.0,0.55,-0.24,AggressiveNewShort,"INDIGO,",41.98,2024-06-11,0.056299999999999996
+Sun TV Network Ltd.,SUNTV,1500.0,Media & Entertainment,TV Broadcasting & Software Production,Mid Cap,753.1,3.83,6433500.0,23.64,0.76,1.07,3853500.0,2839500.0,0.74,0.08,NewLong,"SUNTV,",47.66,2024-06-11,0.066
+GMR Airports Infrastructure Ltd.,GMRINFRA,11250.0,Aviation,Airport Management Services,Mid Cap,90.95,4.62,280181250.0,19.55,2.33,1.39,150153750.0,86253750.0,0.57,-0.07,AggressiveNewLong,"GMRINFRA,",25.58,2024-06-11,0.0933
+Hindustan Copper Ltd.,HINDCOPPER,2650.0,Non - Ferrous Metals,Metal - Non Ferrous,Small Cap,329.8,-2.03,38562800.0,13.09,0.66,0.76,19935950.0,11779250.0,0.59,-0.09,NewShort,"HINDCOPPER,",35.51,2024-06-11,0.1438
+PI Industries Ltd.,PIIND,250.0,Chemicals,Pesticides & Agrochemicals,Mid Cap,3607.1,-0.92,1694750.0,10.26,0.86,1.1,676250.0,426000.0,0.63,-0.13,NewShort,"PIIND,",65.03,2024-06-11,0.0504
+The Ramco Cements Ltd.,RAMCOCEM,850.0,Construction Materials,Cement & Construction Materials,Mid Cap,857.4,-2.21,10213600.0,-10.19,1.25,1.46,4687750.0,2703000.0,0.58,-0.09,AggressiveLongCover,"RAMCOCEM,",44.19,2024-06-11,0.051100000000000007
+Oberoi Realty Ltd.,OBEROIRLTY,700.0,Realty,Construction - Real Estate,Mid Cap,1930.75,1.66,5860400.0,8.1,1.56,2.4,2109100.0,1499400.0,0.71,-0.16,AggressiveNewLong,"OBEROIRLTY,",61.22,2024-06-11,0.0124
+Mahanagar Gas Ltd.,MGL,400.0,Gas Transmission,Gas Transmission/Marketing,Small Cap,1419.1,0.49,2085200.0,-6.94,0.88,1.18,2480000.0,1010800.0,0.41,0.05,ShortCover,"MGL,",40.59,2024-06-11,0.0418
+ABB India Ltd.,ABB,125.0,Capital Goods,Electric Equipment,Large Cap,8095.25,0.41,1194375.0,6.57,0.62,0.54,833875.0,395125.0,0.47,-0.06,NewLong,"ABB,",35.89,2024-06-11,0.0726
+Coal India Ltd.,COALINDIA,2100.0,Mining,Mining & Minerals,Large Cap,476.35,-0.28,54870900.0,6.13,0.52,0.68,51468900.0,26342400.0,0.51,0.01,NewShort,"COALINDIA,",55.11,2024-06-11,0.0546
+Tata Chemicals Ltd.,TATACHEM,550.0,Chemicals,Chemicals,Mid Cap,1111.4,2.34,8589900.0,-6.05,2.0,1.83,7840250.0,5008850.0,0.64,0.12,AggressiveShortCover,"TATACHEM,",23.92,2024-06-11,0.08
+Dr. Reddy's Laboratories Ltd.,DRREDDY,125.0,Healthcare,Pharmaceuticals & Drugs,Large Cap,6039.25,-1.1,2588875.0,6.0,0.79,0.92,1426875.0,846250.0,0.59,0.1,NewShort,"DRREDDY,",67.03,2024-06-11,0.0342
+Ipca Laboratories Ltd.,IPCALAB,650.0,Healthcare,Pharmaceuticals & Drugs,Mid Cap,1173.7,-0.25,2665000.0,5.48,1.21,2.0,1753050.0,986050.0,0.56,-0.03,AggressiveNewShort,"IPCALAB,",69.62,2024-06-11,0.0602
+Apollo Tyres Ltd.,APOLLOTYRE,1700.0,Automobile & Ancillaries,Tyres & Allied,Mid Cap,481.35,-1.19,16216300.0,5.1,0.79,1.03,8362300.0,4537300.0,0.54,0.02,NewShort,"APOLLOTYRE,",59.33,2024-06-11,0.0687
+Oil & Natural Gas Corporation Ltd.,ONGC,1925.0,Crude Oil,Oil Exploration,Large Cap,273.55,5.56,81845225.0,4.93,1.34,0.9,88911900.0,28925050.0,0.33,0.09,NewLong,"ONGC,",30.91,2024-06-11,0.05
+PVR Inox Ltd.,PVRINOX,407.0,Media & Entertainment,"Film Production, Distribution & Entertainment",Small Cap,1381.45,2.61,4465604.0,-4.83,2.31,2.89,2830278.0,1310133.0,0.46,0.04,AggressiveShortCover,"PVRINOX,",53.39,2024-06-11,0.0762
+Maruti Suzuki India Ltd.,MARUTI,50.0,Automobile & Ancillaries,Automobiles - Passenger Cars,Large Cap,12863.65,1.15,2374200.0,4.82,0.7,0.69,2237200.0,868000.0,0.39,0.08,NewLong,"MARUTI,",51.72,2024-06-11,0.0189
+UPL Ltd.,UPL,1300.0,Chemicals,Pesticides & Agrochemicals,Mid Cap,554.3,0.51,37789700.0,4.77,0.84,0.68,17188600.0,10189400.0,0.59,0.0,NewLong,"UPL,",31.5,2024-06-11,0.0558
+Apollo Hospitals Enterprise Ltd.,APOLLOHOSP,125.0,Healthcare,Hospital & Healthcare Services,Large Cap,6107.95,0.85,2198000.0,-4.74,1.04,0.92,1289875.0,699500.0,0.54,0.1,ShortCover,"APOLLOHOSP,",49.65,2024-06-11,0.0194
+Vodafone Idea Ltd.,IDEA,40000.0,Telecom,Telecommunication - Service  Provider,Mid Cap,16.19,2.4,3756080000.0,4.57,0.75,0.76,1150800000.0,680840000.0,0.59,-0.01,NewLong,"IDEA,",34.29,2024-06-11,0.1734
+City Union Bank Ltd.,CUB,5000.0,Banking,Bank - Private,Small Cap,149.47,1.23,24445000.0,4.53,0.73,0.44,12510000.0,7880000.0,0.63,-0.01,NewLong,"CUB,",28.16,2024-06-11,0.0761
+Bharat Heavy Electricals Ltd.,BHEL,2625.0,Capital Goods,Engineering - Industrial Equipments,Mid Cap,295.2,3.78,72964500.0,-4.52,0.42,0.49,58844625.0,33195750.0,0.56,0.03,ShortCover,"BHEL,",31.33,2024-06-11,0.07
+NMDC Ltd.,NMDC,4500.0,Mining,Mining & Minerals,Mid Cap,255.25,0.22,78606000.0,4.5,0.46,0.42,49869000.0,26685000.0,0.54,-0.02,NewLong,"NMDC,",34.42,2024-06-11,0.0499
+Lupin Ltd.,LUPIN,425.0,Healthcare,Pharmaceuticals & Drugs,Mid Cap,1614.05,-1.23,7105575.0,4.44,0.58,0.68,3944850.0,2229975.0,0.57,-0.06,NewShort,"LUPIN,",59.16,2024-06-11,0.0431
+Petronet LNG Ltd.,PETRONET,3000.0,Industrials Gases & Fuels,Industrial  Gases & Fuels,Mid Cap,315.25,4.13,42135000.0,4.28,1.78,1.98,19389000.0,11697000.0,0.6,0.01,AggressiveNewLong,"PETRONET,",45.02,2024-06-11,0.0461
+Godrej Properties Ltd.,GODREJPROP,475.0,Realty,Construction - Real Estate,Mid Cap,2855.95,0.37,3544225.0,4.17,0.69,0.9,1916400.0,1109400.0,0.58,-0.01,NewLong,"GODREJPROP,",46.93,2024-06-11,0.0265
+Indian Energy Exchange Ltd.,IEX,3750.0,Power,Power Generation/Distribution,Small Cap,168.68,1.96,67218750.0,4.16,1.56,1.61,39791250.0,25155000.0,0.63,0.03,AggressiveNewLong,"IEX,",37.77,2024-06-11,0.0745
+The India Cements Ltd.,INDIACEM,2900.0,Construction Materials,Cement & Construction Materials,Small Cap,216.16,-0.91,28889800.0,-4.06,0.39,0.43,9935400.0,6090000.0,0.61,0.05,LongCover,"INDIACEM,",31.82,2024-06-11,0.0917
+Can Fin Homes Ltd.,CANFINHOME,975.0,Finance,Finance - Housing,Small Cap,790.7,2.24,3506100.0,-3.93,1.49,1.63,2685150.0,1579500.0,0.59,-0.1,AggressiveShortCover,"CANFINHOME,",49.83,2024-06-11,0.0756
+Balrampur Chini Mills Ltd.,BALRAMCHIN,1600.0,Agriculture,Sugar,Small Cap,405.4,2.17,13596800.0,-3.89,1.26,1.26,5428800.0,3761600.0,0.69,0.03,AggressiveShortCover,"BALRAMCHIN,",39.38,2024-06-11,0.1137
+Granules India Ltd.,GRANULES,2000.0,Healthcare,Pharmaceuticals & Drugs,Small Cap,474.4,0.22,8868000.0,3.87,0.5,0.37,5326000.0,4326000.0,0.81,-0.01,NewLong,"GRANULES,",27.23,2024-06-11,0.038599999999999995
+Eicher Motors Ltd.,EICHERMOT,175.0,Automobile & Ancillaries,Automobile Two & Three Wheelers,Large Cap,4758.65,-0.5,3800650.0,3.7,1.28,1.82,1118425.0,596750.0,0.53,-0.07,AggressiveNewShort,"EICHERMOT,",68.57,2024-06-11,0.0105
+Cummins India Ltd.,CUMMINSIND,300.0,Automobile & Ancillaries,Diesel Engines,Mid Cap,3565.6,0.61,4385700.0,-3.64,0.33,0.4,1837500.0,921600.0,0.5,0.01,ShortCover,"CUMMINSIND,",57.02,2024-06-11,0.0268
+Havells India Ltd.,HAVELLS,500.0,Capital Goods,Electric Equipment,Large Cap,1832.85,-1.29,5896500.0,3.63,0.78,0.92,2663500.0,1362000.0,0.51,-0.06,NewShort,"HAVELLS,",67.43,2024-06-11,0.0264
+Max Financial Services Ltd.,MFSL,800.0,Finance,Finance - Others,Mid Cap,953.6,-0.04,5270400.0,-3.56,0.49,0.51,1042400.0,675200.0,0.65,0.02,LongCover,"MFSL,",69.05,2024-06-11,0.013500000000000002
+Oracle Financial Services Software Ltd.,OFSS,100.0,Information Technology,IT - Software,Mid Cap,8438.25,0.38,749800.0,3.45,0.47,0.34,567600.0,293800.0,0.52,-0.14,NewLong,"OFSS,",28.15,2024-06-11,0.0361
+Alkem Laboratories Ltd.,ALKEM,100.0,Healthcare,Pharmaceuticals & Drugs,Mid Cap,5066.85,0.71,979300.0,3.39,0.61,0.72,297700.0,106300.0,0.36,0.03,NewLong,"ALKEM,",58.48,2024-06-11,0.0102
+Syngene International Ltd.,SYNGENE,1000.0,Healthcare,Pharmaceuticals & Drugs,Mid Cap,701.65,-1.22,5103000.0,3.32,0.59,0.54,2368000.0,1551000.0,0.65,0.0,NewShort,"SYNGENE,",43.33,2024-06-11,0.047599999999999996
+Container Corporation Of India Ltd.,CONCOR,1000.0,Logistics,Logistics,Mid Cap,1087.8,3.11,10319000.0,-3.25,0.77,0.91,7480000.0,4341000.0,0.58,-0.03,ShortCover,"CONCOR,",51.48,2024-06-11,0.0737
+ICICI Prudential Life Insurance Company Ltd.,ICICIPRULI,1500.0,Finance,Insurance,Large Cap,581.65,0.11,11922000.0,-3.25,1.36,1.78,3382500.0,2260500.0,0.67,0.06,AggressiveShortCover,"ICICIPRULI,",55.97,2024-06-11,0.019799999999999998
+Reliance Industries Ltd.,RELIANCE,250.0,Crude Oil,Refineries,Large Cap,2913.35,-1.0,39786000.0,3.23,0.59,0.79,24911250.0,11137500.0,0.45,-0.01,NewShort,"RELIANCE,",67.97,2024-06-11,0.0401
+Polycab India Ltd.,POLYCAB,100.0,Electricals,Cable,Large Cap,6997.9,2.93,1612500.0,3.12,0.71,0.66,811325.0,454850.0,0.56,-0.05,NewLong,"POLYCAB,",38.83,2024-06-11,0.050499999999999996
+Muthoot Finance Ltd.,MUTHOOTFIN,550.0,Finance,Finance - NBFC,Mid Cap,1756.8,-0.15,3720750.0,-3.09,0.99,1.14,1409650.0,808500.0,0.57,-0.03,LongCover,"MUTHOOTFIN,",49.27,2024-06-11,0.0475
+Laurus Labs Ltd.,LAURUSLABS,1700.0,Healthcare,Pharmaceuticals & Drugs,Small Cap,442.15,-0.34,15483600.0,2.92,0.52,0.6,6376700.0,2691100.0,0.42,0.01,NewShort,"LAURUSLABS,",55.54,2024-06-11,0.0528
+Adani Ports and Special Economic Zone Ltd.,ADANIPORTS,400.0,Logistics,Port,Large Cap,1403.45,1.4,33356000.0,2.83,0.22,0.28,26691600.0,15100000.0,0.57,0.01,NewLong,"ADANIPORTS,",41.38,2024-06-11,0.0707
+IDFC Ltd.,IDFC,5000.0,Finance,Finance - NBFC,Small Cap,114.24,-0.24,92985000.0,2.81,0.68,1.09,18045000.0,13080000.0,0.72,0.02,NewShort,"IDFC,",68.89,2024-06-11,0.0352
+Metropolis Healthcare Ltd.,METROPOLIS,400.0,Healthcare,Hospital & Healthcare Services,Small Cap,1996.1,-0.55,1724800.0,2.79,0.34,0.28,1006400.0,392800.0,0.39,-0.01,NewShort,"METROPOLIS,",39.74,2024-06-11,0.061
+HDFC Asset Management Company Ltd.,HDFCAMC,150.0,Finance,Finance - Asset Management,Mid Cap,3816.85,0.69,2692650.0,-2.6,0.69,0.5,1240800.0,510450.0,0.41,-0.02,ShortCover,"HDFCAMC,",31.99,2024-06-11,0.047
+Manappuram Finance Ltd.,MANAPPURAM,3000.0,Finance,Finance - NBFC,Small Cap,181.41,2.13,48339000.0,2.57,1.09,0.73,13980000.0,10341000.0,0.74,-0.01,NewLong,"MANAPPURAM,",28.0,2024-06-11,0.0401
+Cholamandalam Investment and Finance Company Ltd.,CHOLAFIN,625.0,Finance,Finance - NBFC,Large Cap,1332.3,-2.03,9756250.0,-2.56,0.62,0.58,2248750.0,1468750.0,0.65,-0.06,LongCover,"CHOLAFIN,",41.18,2024-06-11,0.012
+Tata Communications Ltd.,TATACOMM,500.0,Telecom,Telecommunication - Service  Provider,Mid Cap,1878.75,1.06,6531500.0,2.54,0.83,0.75,1773500.0,974500.0,0.55,-0.01,NewLong,"TATACOMM,",40.76,2024-06-11,0.0487
+Indus Towers Ltd.,INDUSTOWER,3400.0,Telecom,Telecommunication - Service  Provider,Mid Cap,347.95,-0.06,73331200.0,2.53,0.51,0.27,21525400.0,14677800.0,0.68,0.04,NewShort,"INDUSTOWER,",21.78,2024-06-11,0.0235
+Marico Ltd.,MARICO,1200.0,Fast Moving Consumer Goods,Consumer Food,Large Cap,647.3,-0.67,13262400.0,2.53,0.25,0.36,5720400.0,3786000.0,0.66,-0.04,NewShort,"MARICO,",58.56,2024-06-11,0.0253
+Torrent Pharmaceuticals Ltd.,TORNTPHARM,250.0,Healthcare,Pharmaceuticals & Drugs,Large Cap,2851.0,-0.45,1365750.0,-2.43,0.82,0.95,288000.0,192250.0,0.67,0.06,LongCover,"TORNTPHARM,",55.49,2024-06-11,0.0128
+United Breweries Ltd.,UBL,400.0,Alcohol,Breweries & Distilleries,Mid Cap,2139.95,-0.3,1846400.0,-2.37,0.34,0.33,722000.0,580800.0,0.8,-0.04,LongCover,"UBL,",32.28,2024-06-11,0.0366
+JK Cement Ltd.,JKCEMENT,125.0,Construction Materials,Cement & Construction Materials,Mid Cap,4205.05,-0.58,477000.0,2.31,0.4,0.35,131125.0,107500.0,0.82,0.09,NewShort,"JKCEMENT,",50.0,2024-06-11,0.0296
+Britannia Industries Ltd.,BRITANNIA,200.0,Fast Moving Consumer Goods,Consumer Food,Large Cap,5517.75,0.53,2136600.0,-2.3,0.71,0.85,1384200.0,548400.0,0.4,-0.03,ShortCover,"BRITANNIA,",55.16,2024-06-11,0.021
+Coforge Ltd.,COFORGE,150.0,Information Technology,IT - Software,Mid Cap,5175.85,-0.85,2278650.0,2.28,0.52,0.62,1857750.0,920550.0,0.5,0.01,NewShort,"COFORGE,",46.39,2024-06-11,0.0791
+DLF Ltd.,DLF,825.0,Realty,Construction - Real Estate,Large Cap,856.0,0.99,40608975.0,-2.23,0.56,0.6,15729450.0,9772125.0,0.62,0.01,ShortCover,"DLF,",48.19,2024-06-11,0.0281
+Mahindra & Mahindra Financial Services Ltd.,M&MFIN,2000.0,Finance,Finance - NBFC,Mid Cap,290.7,2.34,30586000.0,2.21,0.68,0.69,9322000.0,6434000.0,0.69,-0.05,NewLong,"M&MFIN,",46.57,2024-06-11,0.0666
+Aarti Industries Ltd.,AARTIIND,1000.0,Chemicals,Chemicals,Small Cap,658.1,-0.9,11833000.0,2.13,1.26,1.5,6173000.0,3463000.0,0.56,0.02,AggressiveNewShort,"AARTIIND,",42.87,2024-06-11,0.0525
+Astral Ltd.,ASTRAL,367.0,Plastic Products,Plastic Products,Mid Cap,2194.85,1.58,2636528.0,2.12,0.95,0.95,1218073.0,558574.0,0.46,0.01,NewLong,"ASTRAL,",46.39,2024-06-11,0.0155
+Jindal Steel & Power Ltd.,JINDALSTEL,625.0,Iron & Steel,Steel/Sponge Iron/Pig Iron,Large Cap,1008.9,-0.32,11371875.0,2.12,0.37,0.3,8062500.0,4058125.0,0.5,-0.05,NewShort,"JINDALSTEL,",39.71,2024-06-11,0.024300000000000002
+Multi Commodity Exchange Of India Ltd.,MCX,200.0,Finance,Finance - Stock Broking,Small Cap,3698.95,1.47,2695800.0,2.1,0.45,0.38,1251800.0,832200.0,0.66,0.04,NewLong,"MCX,",32.11,2024-06-11,0.047
+Coromandel International Ltd.,COROMANDEL,700.0,Chemicals,Fertilizers,Mid Cap,1466.35,1.87,2917600.0,2.08,0.89,0.79,1039500.0,1223600.0,1.18,0.32,NewLong,"COROMANDEL,",36.8,2024-06-11,0.0698
+Divi's Laboratories Ltd.,DIVISLAB,200.0,Healthcare,Pharmaceuticals & Drugs,Large Cap,4475.45,-1.34,2399200.0,-2.07,0.37,0.37,1379200.0,792000.0,0.57,-0.05,LongCover,"DIVISLAB,",50.25,2024-06-11,0.0285
+Hindustan Aeronautics Ltd.,HAL,300.0,Other,Defence,Large Cap,4856.6,0.91,12884700.0,2.07,0.3,0.34,10986900.0,5988900.0,0.55,0.0,NewLong,"HAL,",35.99,2024-06-11,0.0882
+Canara Bank,CANBK,6750.0,Banking,Bank - Public,Large Cap,121.23,0.17,220914000.0,-2.04,0.42,0.44,132644250.0,79083000.0,0.6,0.02,ShortCover,"CANBK,",43.69,2024-06-11,0.054299999999999994
+Wipro Ltd.,WIPRO,1500.0,Information Technology,IT - Software,Large Cap,476.05,0.17,58564500.0,2.01,0.34,0.44,34023000.0,21231000.0,0.62,-0.01,NewLong,"WIPRO,",44.8,2024-06-11,0.0924
+Godrej Consumer Products Ltd.,GODREJCP,500.0,Fast Moving Consumer Goods,Household & Personal Products,Large Cap,1429.2,0.43,5920500.0,-2.0,0.28,0.32,2100000.0,1289000.0,0.61,0.02,ShortCover,"GODREJCP,",64.13,2024-06-11,0.0124
+Kotak Mahindra Bank Ltd.,KOTAKBANK,400.0,Banking,Bank - Private,Large Cap,1720.0,-1.47,40502800.0,2.0,0.45,0.47,11570000.0,6514800.0,0.56,-0.1,NewShort,"KOTAKBANK,",57.23,2024-06-11,0.0297
+Indian Railway Catering And Tourism Corporation Ltd.,IRCTC,875.0,Hospitality,Travel Services,Mid Cap,1020.05,4.31,17380125.0,1.99,1.43,1.06,16934750.0,9197125.0,0.54,0.02,AggressiveNewLong,"IRCTC,",23.15,2024-06-11,0.0653
+MRF Ltd.,MRF,5.0,Automobile & Ancillaries,Tyres & Allied,Mid Cap,126258.9,-0.55,51600.0,1.96,0.37,0.37,13250.0,7765.0,0.59,0.04,NewShort,"MRF,",36.63,2024-06-11,0.0484
+Power Finance Corporation Ltd.,PFC,3875.0,Finance,Finance Term Lending,Large Cap,486.45,0.13,65440025.0,-1.96,0.38,0.49,72264925.0,44644650.0,0.62,0.0,ShortCover,"PFC,",39.67,2024-06-11,0.06849999999999999
+Zee Entertainment Enterprises Ltd.,ZEEL,3000.0,Media & Entertainment,TV Broadcasting & Software Production,Mid Cap,165.23,0.5,125040000.0,-1.93,0.96,1.21,14511000.0,9687000.0,0.67,0.01,ShortCover,"ZEEL,",51.8,2024-06-11,0.0
+Cipla Ltd.,CIPLA,650.0,Healthcare,Pharmaceuticals & Drugs,Large Cap,1530.25,-0.26,11449750.0,-1.9,0.86,1.09,6967350.0,5117450.0,0.73,0.01,LongCover,"CIPLA,",52.35,2024-06-11,0.0202
+Birlasoft Ltd.,BSOFT,1000.0,Information Technology,IT - Software,Small Cap,672.9,-1.04,12826000.0,1.83,0.5,0.83,5951000.0,3903000.0,0.66,0.0,NewShort,"BSOFT,",55.02,2024-06-11,0.07629999999999999
+Aditya Birla Capital Ltd.,ABCAPITAL,5400.0,Finance,Finance - NBFC,Mid Cap,234.11,0.51,67246200.0,1.76,0.64,0.63,27496800.0,21200400.0,0.77,0.02,NewLong,"ABCAPITAL,",38.95,2024-06-11,0.04019999999999999
+Indian Oil Corporation Ltd.,IOC,4875.0,Crude Oil,Refineries,Large Cap,167.68,1.5,151510125.0,1.76,0.66,0.63,90148500.0,50436750.0,0.56,0.0,NewLong,"IOC,",36.76,2024-06-11,0.0721
+Info Edge (India) Ltd.,NAUKRI,150.0,Information Technology,BPO/ITeS,Mid Cap,6221.15,-0.09,1323300.0,-1.74,0.57,0.6,473550.0,330900.0,0.7,-0.01,LongCover,"NAUKRI,",61.39,2024-06-11,0.0161
+Titan Company Ltd.,TITAN,175.0,Diamond & Jewellery,Diamond  &  Jewellery,Large Cap,3410.7,-0.34,8013075.0,1.72,0.55,0.7,2418325.0,1656900.0,0.69,-0.09,NewShort,"TITAN,",68.73,2024-06-11,0.0385
+Dr. Lal Pathlabs Ltd.,LALPATHLAB,300.0,Healthcare,Hospital & Healthcare Services,Small Cap,2802.05,0.66,1460400.0,1.69,0.49,0.5,591600.0,233400.0,0.39,-0.02,NewLong,"LALPATHLAB,",49.65,2024-06-11,0.031200000000000002
+LIC Housing Finance Ltd.,LICHSGFIN,1000.0,Finance,Finance - Housing,Mid Cap,680.1,0.85,26750000.0,1.68,0.98,0.93,8872000.0,7789000.0,0.88,0.03,NewLong,"LICHSGFIN,",40.74,2024-06-11,0.023
+Aditya Birla Fashion and Retail Ltd.,ABFRL,2600.0,Retailing,Retailing,Small Cap,323.45,-0.15,35469200.0,1.67,0.28,0.26,13748800.0,10706800.0,0.78,0.0,NewShort,"ABFRL,",30.28,2024-06-11,0.1016
+Berger Paints India Ltd.,BERGEPAINT,1320.0,Chemicals,Paints,Large Cap,493.1,0.23,25926120.0,-1.67,0.68,0.75,7487040.0,4011480.0,0.54,-0.01,ShortCover,"BERGEPAINT,",64.28,2024-06-11,0.061399999999999996
+Infosys Ltd.,INFY,400.0,Information Technology,IT - Software,Large Cap,1495.75,-0.27,44210800.0,1.65,0.36,0.4,22790800.0,10874800.0,0.48,-0.01,NewShort,"INFY,",68.19,2024-06-11,0.0461
+JSW Steel Ltd.,JSWSTEEL,675.0,Iron & Steel,Steel & Iron Products,Large Cap,910.1,-0.63,14561100.0,1.65,0.69,0.94,5187375.0,3907575.0,0.75,-0.01,NewShort,"JSWSTEEL,",57.87,2024-06-11,0.021099999999999997
+Ultratech Cement Ltd.,ULTRACEMCO,100.0,Construction Materials,Cement & Construction Materials,Large Cap,10933.55,0.99,2031000.0,-1.52,1.06,1.32,1378100.0,1004600.0,0.73,0.02,AggressiveShortCover,"ULTRACEMCO,",62.53,2024-06-11,0.0356
+Crompton Greaves Consumer Electricals Ltd.,CROMPTON,1800.0,Consumer Durables,Consumer Durables - Domestic Appliances,Small Cap,411.2,-0.15,17348400.0,1.51,0.54,0.4,6316200.0,4138200.0,0.66,0.12,NewShort,"CROMPTON,",35.16,2024-06-11,0.0351
+Steel Authority Of India Ltd.,SAIL,4000.0,Iron & Steel,Steel & Iron Products,Mid Cap,151.01,0.27,177940000.0,-1.51,0.34,0.49,56604000.0,34240000.0,0.6,0.01,ShortCover,"SAIL,",40.58,2024-06-11,0.0677
+Adani Enterprises Ltd.,ADANIENT,300.0,Trading,Trading,Large Cap,3221.25,0.04,13915800.0,1.5,0.47,0.84,12982800.0,7857900.0,0.61,-0.03,NewLong,"ADANIENT,",51.98,2024-06-11,0.0975
+Ambuja Cements Ltd.,AMBUJACEM,900.0,Construction Materials,Cement & Construction Materials,Large Cap,639.75,-0.09,33183000.0,-1.5,0.36,0.39,14816700.0,11635200.0,0.79,0.05,LongCover,"AMBUJACEM,",46.14,2024-06-11,0.0168
+IndusInd Bank Ltd.,INDUSINDBK,500.0,Banking,Bank - Private,Large Cap,1481.05,-0.32,22569000.0,1.49,0.3,0.34,8205500.0,5887500.0,0.72,-0.02,NewShort,"INDUSINDBK,",55.0,2024-06-11,0.061200000000000004
+Biocon Ltd.,BIOCON,2500.0,Healthcare,Pharmaceuticals & Drugs,Mid Cap,344.45,1.34,47405000.0,1.44,0.54,0.45,13122500.0,9935000.0,0.76,0.09,NewLong,"BIOCON,",31.36,2024-06-11,0.0902
+Voltas Ltd.,VOLTAS,600.0,Consumer Durables,Air Conditioners,Mid Cap,1460.75,-0.03,6953400.0,1.44,0.76,0.83,3228600.0,2047200.0,0.63,0.02,NewShort,"VOLTAS,",43.06,2024-06-11,0.028399999999999998
+ICICI Lombard General Insurance Company Ltd.,ICICIGI,500.0,Finance,Insurance,Large Cap,1645.35,-2.07,3566500.0,-1.42,0.75,0.83,902000.0,555500.0,0.62,-0.04,LongCover,"ICICIGI,",55.9,2024-06-11,0.016399999999999998
+L&T Finance Ltd.,LTF,4462.0,Finance,Finance - NBFC,Mid Cap,164.9,-0.27,55641140.0,1.42,0.75,0.86,27816108.0,12176798.0,0.44,0.03,NewShort,"LTF,",59.89,2024-06-11,0.048
+Hindustan Unilever Ltd.,HINDUNILVR,300.0,Fast Moving Consumer Goods,Household & Personal Products,Large Cap,2556.35,-0.35,18978900.0,1.38,0.25,0.32,9937200.0,5275200.0,0.53,-0.03,NewShort,"HINDUNILVR,",70.31,2024-06-11,0.0187
+Zydus Lifesciences Ltd.,ZYDUSLIFE,900.0,Healthcare,Pharmaceuticals & Drugs,Mid Cap,1084.85,-0.11,11045700.0,-1.37,0.74,0.93,3233700.0,1780200.0,0.55,0.06,LongCover,"ZYDUSLIFE,",69.59,2024-06-11,0.0166
+Piramal Enterprises Ltd.,PEL,750.0,Finance,Finance - NBFC,Mid Cap,840.4,2.31,12744000.0,1.33,1.41,1.31,3907500.0,3381750.0,0.87,0.0,AggressiveNewLong,"PEL,",40.63,2024-06-11,0.0687
+Balkrishna Industries Ltd.,BALKRISIND,300.0,Automobile & Ancillaries,Tyres & Allied,Mid Cap,3213.35,-1.14,1876200.0,1.31,0.64,0.59,1190400.0,702000.0,0.59,0.01,NewShort,"BALKRISIND,",43.68,2024-06-11,0.027000000000000003
+Exide Industries Ltd.,EXIDEIND,1800.0,Automobile & Ancillaries,Batteries,Mid Cap,528.85,0.58,21799800.0,-1.31,0.56,0.65,16606800.0,10719000.0,0.65,0.01,ShortCover,"EXIDEIND,",33.66,2024-06-11,0.0587
+Indiamart Intermesh Ltd.,INDIAMART,300.0,Information Technology,e-Commerce,Small Cap,2554.45,-0.34,1091100.0,-1.3,0.32,0.23,578700.0,328800.0,0.57,-0.01,LongCover,"INDIAMART,",35.54,2024-06-11,0.0935
+Tata Consultancy Services Ltd.,TCS,175.0,Information Technology,IT - Software,Large Cap,3852.1,-0.17,18450250.0,1.3,0.42,0.51,7624575.0,4197900.0,0.55,0.0,NewShort,"TCS,",68.18,2024-06-11,0.0334
+Hindustan Petroleum Corporation Ltd.,HINDPETRO,1350.0,Crude Oil,Refineries,Mid Cap,524.05,0.4,32595750.0,1.29,0.64,0.63,18160200.0,10435500.0,0.57,0.05,NewLong,"HINDPETRO,",32.45,2024-06-11,0.0403
+Tech Mahindra Ltd.,TECHM,600.0,Information Technology,IT - Software,Large Cap,1349.45,0.68,16638600.0,-1.25,0.44,0.41,5999400.0,4255200.0,0.71,0.0,ShortCover,"TECHM,",41.5,2024-06-11,0.025
+Colgate-Palmolive (India) Ltd.,COLPAL,350.0,Fast Moving Consumer Goods,Household & Personal Products,Mid Cap,2951.45,0.25,2624300.0,1.24,0.47,0.42,764050.0,607250.0,0.79,0.0,NewLong,"COLPAL,",39.02,2024-06-11,0.0471
+Axis Bank Ltd.,AXISBANK,625.0,Banking,Bank - Private,Large Cap,1194.6,-0.45,42183125.0,-1.23,0.62,0.83,16520000.0,7962500.0,0.48,-0.03,LongCover,"AXISBANK,",61.92,2024-06-11,0.0215
+Bandhan Bank Ltd.,BANDHANBNK,2500.0,Banking,Bank - Private,Mid Cap,198.45,0.07,101435500.0,1.22,0.49,0.4,37652900.0,24478900.0,0.65,0.1,NewLong,"BANDHANBNK,",31.65,2024-06-11,0.0693
+Asian Paints Ltd.,ASIANPAINT,200.0,Chemicals,Paints,Large Cap,2902.45,-1.19,12481200.0,1.16,0.46,0.5,4882200.0,2495400.0,0.51,-0.01,NewShort,"ASIANPAINT,",54.47,2024-06-11,0.0281
+Samvardhana Motherson International Ltd.,MOTHERSON,7100.0,Automobile & Ancillaries,Auto Ancillary,Mid Cap,163.01,-0.95,107650200.0,-1.13,0.55,0.5,39774200.0,34605400.0,0.87,0.04,LongCover,"MOTHERSON,",39.16,2024-06-11,0.0383
+HDFC Life Insurance Company Ltd.,HDFCLIFE,1100.0,Finance,Insurance,Large Cap,571.7,0.44,43335600.0,-1.1,1.32,1.8,17914600.0,7065300.0,0.39,-0.05,AggressiveShortCover,"HDFCLIFE,",63.81,2024-06-11,0.0444
+Abbott India Ltd.,ABBOTINDIA,20.0,Healthcare,Pharmaceuticals & Drugs,Mid Cap,27979.6,0.16,150200.0,-1.09,0.88,0.64,18600.0,9500.0,0.51,0.06,ShortCover,"ABBOTINDIA,",30.94,2024-06-11,0.031200000000000002
+Dalmia Bharat Ltd.,DALBHARAT,250.0,Construction Materials,Cement & Construction Materials,Mid Cap,1887.95,0.66,3017300.0,-1.07,0.69,0.75,1065600.0,661200.0,0.62,0.01,ShortCover,"DALBHARAT,",56.31,2024-06-11,0.0385
+Aurobindo Pharma Ltd.,AUROPHARMA,550.0,Healthcare,Pharmaceuticals & Drugs,Mid Cap,1257.0,0.62,12403050.0,-1.06,0.39,0.49,3311550.0,1742950.0,0.53,0.01,ShortCover,"AUROPHARMA,",52.77,2024-06-11,0.0178
+Hero MotoCorp Ltd.,HEROMOTOCO,150.0,Automobile & Ancillaries,Automobile Two & Three Wheelers,Mid Cap,5786.6,1.13,3789600.0,1.05,0.71,0.76,1850850.0,1513350.0,0.82,0.06,NewLong,"HEROMOTOCO,",53.43,2024-06-11,0.038599999999999995
+LTIMindtree Ltd.,LTIM,150.0,Information Technology,IT - Software,Large Cap,4903.55,0.0,3820650.0,1.05,0.42,0.55,1620450.0,854700.0,0.53,-0.01,NewLong,"LTIM,",62.87,2024-06-11,0.055
+Vedanta Ltd.,VEDL,2300.0,Non - Ferrous Metals,Metal - Non Ferrous,Large Cap,443.75,-0.08,81187700.0,1.05,0.61,0.59,44958100.0,27876000.0,0.62,-0.01,NewShort,"VEDL,",38.21,2024-06-11,0.0401
+Nestle India Ltd.,NESTLEIND,200.0,Fast Moving Consumer Goods,Consumer Food,Large Cap,2541.95,-0.25,5656000.0,-1.04,0.45,0.49,1278200.0,721600.0,0.56,0.02,LongCover,"NESTLEIND,",53.68,2024-06-11,0.021
+SBI Life Insurance Company Ltd.,SBILIFE,375.0,Finance,Insurance,Large Cap,1428.05,-0.3,9266625.0,-1.04,0.49,0.46,3028875.0,1210875.0,0.4,-0.1,LongCover,"SBILIFE,",46.27,2024-06-11,0.0151
+State Bank Of India,SBIN,750.0,Banking,Bank - Public,Large Cap,835.55,0.45,90821250.0,-0.99,0.26,0.26,82677000.0,42891000.0,0.52,0.01,ShortCover,"SBIN,",38.01,2024-06-11,0.0634
+ACC Ltd.,ACC,300.0,Construction Materials,Cement & Construction Materials,Mid Cap,2563.6,0.81,4815300.0,-0.98,0.76,1.19,1814100.0,1198800.0,0.66,0.04,ShortCover,"ACC,",58.31,2024-06-11,0.0206
+Trent Ltd.,TRENT,200.0,Retailing,Retailing,Large Cap,4906.6,-1.26,2995600.0,0.98,0.67,0.8,1064800.0,760200.0,0.71,-0.01,NewShort,"TRENT,",53.28,2024-06-11,0.029300000000000003
+Jubilant FoodWorks Ltd.,JUBLFOOD,1250.0,Fast Moving Consumer Goods,Consumer Food,Mid Cap,528.6,1.07,22323750.0,0.97,0.57,0.52,9767500.0,6916250.0,0.71,-0.06,NewLong,"JUBLFOOD,",36.83,2024-06-11,0.0721
+Navin Fluorine International Ltd.,NAVINFLUOR,150.0,Chemicals,Chemicals,Small Cap,3485.05,1.44,1344500.0,0.96,2.11,2.01,603200.0,331400.0,0.55,-0.1,AggressiveNewLong,"NAVINFLUOR,",37.1,2024-06-11,0.0541
+The Indian Hotels Company Ltd.,INDHOTEL,1000.0,Hospitality,"Hotel, Resort & Restaurants",Mid Cap,582.05,-0.04,18339000.0,0.94,0.61,0.9,6236000.0,3929000.0,0.63,-0.01,NewShort,"INDHOTEL,",73.68,2024-06-11,0.0323
+Bajaj Finserv Ltd.,BAJAJFINSV,500.0,Finance,Finance - Investment,Large Cap,1568.25,0.16,11194000.0,0.93,0.47,0.39,4631000.0,2178000.0,0.47,-0.04,NewLong,"BAJAJFINSV,",38.74,2024-06-11,0.030600000000000002
+Tata Power Company Ltd.,TATAPOWER,3375.0,Power,Power Generation/Distribution,Large Cap,448.4,0.09,83066850.0,0.92,0.37,0.42,52642575.0,29378700.0,0.56,-0.01,NewLong,"TATAPOWER,",44.15,2024-06-11,0.0475
+The Federal Bank Ltd.,FEDERALBNK,5000.0,Banking,Bank - Private,Mid Cap,167.59,1.66,73630000.0,0.84,0.61,0.59,43985000.0,24190000.0,0.55,-0.01,NewLong,"FEDERALBNK,",38.34,2024-06-11,0.053200000000000004
+L&T Technology Services Ltd.,LTTS,100.0,Information Technology,IT - Software,Mid Cap,4875.9,1.6,1470800.0,-0.83,0.52,0.42,713600.0,447600.0,0.63,-0.02,ShortCover,"LTTS,",42.27,2024-06-11,0.11710000000000001
+Bharat Petroleum Corporation Ltd.,BPCL,900.0,Crude Oil,Refineries,Large Cap,607.2,0.76,35980200.0,0.79,0.81,0.73,27050400.0,14262300.0,0.53,0.01,NewLong,"BPCL,",38.42,2024-06-11,0.0538
+SBI Cards And Payment Services Ltd.,SBICARD,800.0,Finance,Finance - NBFC,Large Cap,712.8,-0.6,17686400.0,0.79,0.64,0.61,7624000.0,6299200.0,0.83,0.11,NewShort,"SBICARD,",42.55,2024-06-11,0.11560000000000001
+Escorts Kubota Ltd.,ESCORTS,275.0,Automobile & Ancillaries,Automobiles-Tractors,Mid Cap,4126.35,1.84,1356300.0,-0.78,1.08,0.92,675950.0,553300.0,0.82,0.25,ShortCover,"ESCORTS,",28.01,2024-06-11,0.0302
+Glenmark Pharmaceuticals Ltd.,GLENMARK,725.0,Healthcare,Pharmaceuticals & Drugs,Mid Cap,1190.75,-1.27,9678025.0,-0.76,0.84,1.52,1937200.0,1202775.0,0.62,-0.03,LongCover,"GLENMARK,",63.86,2024-06-11,0.0125
+Larsen & Toubro Ltd.,LT,150.0,Infrastructure,Engineering - Construction,Large Cap,3598.7,1.55,15423450.0,-0.75,0.34,0.28,10027050.0,4691550.0,0.47,0.01,ShortCover,"LT,",43.76,2024-06-11,0.053099999999999994
+Pidilite Industries Ltd.,PIDILITIND,250.0,Chemicals,Chemicals,Large Cap,3175.4,0.04,2043000.0,0.74,0.58,0.64,654500.0,418250.0,0.64,-0.01,NewLong,"PIDILITIND,",62.02,2024-06-11,0.025699999999999997
+Persistent Systems Ltd.,PERSISTENT,200.0,Information Technology,IT - Software,Mid Cap,3733.85,-0.31,2398600.0,0.71,0.63,0.68,1115400.0,657200.0,0.59,-0.04,NewShort,"PERSISTENT,",51.87,2024-06-11,0.052300000000000006
+Mphasis Ltd.,MPHASIS,275.0,Information Technology,IT - Software,Mid Cap,2391.9,-0.11,4819375.0,0.7,0.1,0.06,2593800.0,1771550.0,0.68,-0.03,NewShort,"MPHASIS,",47.88,2024-06-11,0.0852
+Shree Cement Ltd.,SHREECEM,25.0,Construction Materials,Cement & Construction Materials,Large Cap,27063.85,-0.65,267900.0,-0.69,0.75,0.8,59850.0,45325.0,0.76,0.1,LongCover,"SHREECEM,",56.98,2024-06-11,0.0109
+Tata Consumer Products Ltd.,TATACONSUM,450.0,Agriculture,Tea/Coffee,Large Cap,1135.6,0.23,10536750.0,0.69,0.26,0.25,4838400.0,3384900.0,0.7,-0.02,NewLong,"TATACONSUM,",51.97,2024-06-11,0.020499999999999997
+AU Small Finance Bank Ltd.,AUBANK,1000.0,Banking,Bank - Private,Mid Cap,671.6,0.32,25320000.0,0.68,0.45,0.44,7202000.0,4766000.0,0.66,-0.03,NewLong,"AUBANK,",28.97,2024-06-11,0.058499999999999996
+Bajaj Auto Ltd.,BAJAJ-AUTO,125.0,Automobile & Ancillaries,Automobile Two & Three Wheelers,Large Cap,9812.7,0.82,2152150.0,0.67,1.02,1.38,915850.0,759825.0,0.83,0.09,AggressiveNewLong,"BAJAJ-AUTO,",58.21,2024-06-11,0.0
+Shriram Finance Ltd.,SHRIRAMFIN,300.0,Finance,Finance - NBFC,Large Cap,2533.0,0.55,6128700.0,0.67,0.53,0.6,1466100.0,704700.0,0.48,0.01,NewLong,"SHRIRAMFIN,",49.96,2024-06-11,0.0103
+Dabur India Ltd.,DABUR,1250.0,Fast Moving Consumer Goods,Household & Personal Products,Large Cap,613.45,-1.03,22625000.0,-0.66,0.33,0.45,12911250.0,8135000.0,0.63,-0.11,LongCover,"DABUR,",65.96,2024-06-11,0.013300000000000001
+Mahindra & Mahindra Ltd.,M&M,350.0,Automobile & Ancillaries,Automobiles - Passenger Cars,Large Cap,2835.55,1.0,15135400.0,-0.66,0.48,0.51,5182100.0,4709950.0,0.91,-0.03,ShortCover,"M&M,",59.67,2024-06-11,0.022000000000000002
+United Spirits Ltd.,UNITDSPR,700.0,Alcohol,Breweries & Distilleries,Large Cap,1317.7,0.2,8451100.0,-0.66,0.35,0.45,1872500.0,1634500.0,0.87,0.07,ShortCover,"UNITDSPR,",63.68,2024-06-11,0.0147
+ICICI Bank Ltd.,ICICIBANK,700.0,Banking,Bank - Private,Large Cap,1118.2,-0.5,75030200.0,0.65,0.46,0.49,31930500.0,13157200.0,0.41,-0.03,NewShort,"ICICIBANK,",42.26,2024-06-11,0.0291
+Bajaj Finance Ltd.,BAJFINANCE,125.0,Finance,Finance - NBFC,Large Cap,7138.1,0.69,8886875.0,-0.63,0.61,0.68,4061625.0,2399250.0,0.59,-0.02,ShortCover,"BAJFINANCE,",49.34,2024-06-11,0.0336
+National Aluminium Company Ltd.,NATIONALUM,3750.0,Non - Ferrous Metals,Aluminium & Aluminium Products,Small Cap,183.17,-0.13,73905000.0,-0.62,0.48,0.45,41625000.0,21296250.0,0.51,-0.02,LongCover,"NATIONALUM,",35.24,2024-06-11,0.050499999999999996
+Page Industries Ltd.,PAGEIND,15.0,Textile,Textile,Mid Cap,38979.55,0.85,204105.0,0.6,0.51,0.68,30585.0,25935.0,0.85,0.1,NewLong,"PAGEIND,",55.67,2024-06-11,0.030699999999999998
+Chambal Fertilisers and Chemicals Ltd.,CHAMBLFERT,1900.0,Chemicals,Fertilizers,Small Cap,423.25,-0.54,10843300.0,-0.59,0.91,0.83,7106000.0,3864600.0,0.54,0.04,LongCover,"CHAMBLFERT,",24.78,2024-06-11,0.0447
+Punjab National Bank,PNB,8000.0,Banking,Bank - Public,Large Cap,126.14,0.64,287936000.0,0.59,0.29,0.3,139624000.0,70096000.0,0.5,-0.01,NewLong,"PNB,",33.64,2024-06-11,0.0638
+Sun Pharmaceutical Industries Ltd.,SUNPHARMA,350.0,Healthcare,Pharmaceuticals & Drugs,Large Cap,1499.75,-0.88,16790200.0,0.53,0.47,0.56,10756200.0,2682400.0,0.25,-0.09,NewShort,"SUNPHARMA,",64.59,2024-06-11,0.0128
+Bharat Forge Ltd.,BHARATFORG,500.0,Automobile & Ancillaries,Forgings,Mid Cap,1602.6,1.38,5930500.0,0.5,0.39,0.3,2263000.0,1907000.0,0.84,0.02,NewLong,"BHARATFORG,",37.25,2024-06-11,0.0277
+Gujarat Gas Ltd.,GUJGASLTD,1250.0,Gas Transmission,Gas Transmission/Marketing,Mid Cap,607.75,3.01,7862500.0,-0.49,1.24,1.27,4990000.0,3671250.0,0.74,0.1,AggressiveShortCover,"GUJGASLTD,",29.43,2024-06-11,0.1027
+Grasim Industries Ltd.,GRASIM,477.0,Construction Materials,Cement & Construction Materials,Large Cap,2456.9,0.41,7433759.0,-0.48,0.46,0.49,2786364.0,1491243.0,0.54,-0.01,ShortCover,"GRASIM,",49.54,2024-06-11,0.0075
+Indraprastha Gas Ltd.,IGL,1375.0,Gas Transmission,Gas Transmission/Marketing,Mid Cap,470.6,0.13,17719625.0,0.47,0.96,1.07,9136875.0,5751625.0,0.63,0.0,NewLong,"IGL,",56.56,2024-06-11,0.09390000000000001
+Hindalco Industries Ltd.,HINDALCO,1400.0,Non - Ferrous Metals,Metal - Non Ferrous,Large Cap,672.95,-0.51,42837200.0,0.46,0.36,0.39,25078200.0,16237200.0,0.65,0.0,NewShort,"HINDALCO,",58.48,2024-06-11,0.0274
+NTPC Ltd.,NTPC,1500.0,Power,Power Generation/Distribution,Large Cap,367.4,0.69,95748000.0,0.42,0.28,0.26,83857500.0,19045500.0,0.23,0.01,NewLong,"NTPC,",49.07,2024-06-11,0.0318
+Atul Ltd.,ATUL,75.0,Chemicals,Chemicals,Small Cap,6086.8,1.89,519625.0,0.33,1.3,1.02,100425.0,63050.0,0.63,0.15,AggressiveNewLong,"ATUL,",37.43,2024-06-11,0.09369999999999999
+SRF Ltd.,SRF,375.0,Chemicals,Chemicals,Large Cap,2327.7,-1.14,4425375.0,0.3,0.65,0.68,2430375.0,1228500.0,0.51,-0.01,NewShort,"SRF,",48.58,2024-06-11,0.0431
+Tata Steel Ltd.,TATASTEEL,5500.0,Iron & Steel,Steel & Iron Products,Large Cap,181.33,0.58,204330500.0,0.28,0.69,0.65,125961000.0,104395500.0,0.83,-0.02,NewLong,"TATASTEEL,",36.83,2024-06-11,0.0565
+TVS Motor Company Ltd.,TVSMOTOR,350.0,Automobile & Ancillaries,Automobile Two & Three Wheelers,Large Cap,2442.45,0.23,7192850.0,0.28,0.69,0.75,1710100.0,1457750.0,0.85,-0.01,NewLong,"TVSMOTOR,",56.13,2024-06-11,0.022099999999999998
+GAIL (India) Ltd.,GAIL,4575.0,Industrials Gases & Fuels,Industrial  Gases & Fuels,Large Cap,212.86,2.25,142145250.0,0.27,0.96,1.02,75885525.0,42346200.0,0.56,0.07,NewLong,"GAIL,",40.83,2024-06-11,0.0733
+Bata India Ltd.,BATAINDIA,375.0,Retailing,Footwear,Small Cap,1474.45,-0.56,3634875.0,0.26,0.44,0.37,1753125.0,1820625.0,1.04,-0.14,NewShort,"BATAINDIA,",36.13,2024-06-11,0.0858
+RBL Bank Ltd.,RBLBANK,2500.0,Banking,Bank - Private,Small Cap,253.65,0.26,53945000.0,-0.23,0.38,0.27,13795000.0,9112500.0,0.66,-0.02,ShortCover,"RBLBANK,",29.5,2024-06-11,0.0213
+Ashok Leyland Ltd.,ASHOKLEY,5000.0,Automobile & Ancillaries,Automobiles-Trucks/Lcv,Mid Cap,237.96,2.83,82560000.0,-0.2,0.54,0.48,49135000.0,36485000.0,0.74,0.07,ShortCover,"ASHOKLEY,",33.78,2024-06-11,0.045899999999999996
+IDFC First Bank Ltd.,IDFCFIRSTB,7500.0,Banking,Bank - Private,Mid Cap,77.51,-0.03,358920000.0,-0.19,0.23,0.23,160927500.0,87165000.0,0.54,0.0,LongCover,"IDFCFIRSTB,",36.0,2024-06-11,0.10869999999999999
+Bosch Ltd.,BOSCHLTD,25.0,Automobile & Ancillaries,Auto Ancillary,Mid Cap,31174.0,1.33,307425.0,-0.18,1.14,0.89,61075.0,26625.0,0.44,-0.04,ShortCover,"BOSCHLTD,",27.26,2024-06-11,0.0215
+Power Grid Corporation Of India Ltd.,POWERGRID,3600.0,Power,Power Generation/Distribution,Large Cap,316.55,0.24,69026400.0,0.18,0.28,0.32,53262000.0,32238000.0,0.61,0.0,NewLong,"POWERGRID,",56.51,2024-06-11,0.0398
+REC Ltd.,RECLTD,2000.0,Finance,Finance Term Lending,Large Cap,510.6,-0.12,61394000.0,-0.15,0.36,0.35,62852000.0,30134000.0,0.48,-0.03,LongCover,"RECLTD,",29.85,2024-06-11,0.0944
+Gujarat Narmada Valley Fertilizers & Chemicals Ltd.,GNFC,1300.0,Chemicals,Fertilizers,Small Cap,682.55,2.32,7295600.0,0.12,1.75,1.27,4031300.0,2327000.0,0.58,-0.13,AggressiveNewLong,"GNFC,",31.29,2024-06-11,0.0592
+Bharti Airtel Ltd.,BHARTIARTL,475.0,Telecom,Telecommunication - Service  Provider,Large Cap,1427.25,0.08,40984425.0,0.11,0.37,0.41,19198550.0,9483850.0,0.49,-0.01,NewLong,"BHARTIARTL,",66.64,2024-06-11,0.0148
+Bharat Electronics Ltd.,BEL,2850.0,Capital Goods,Engineering - Industrial Equipments,Large Cap,286.2,0.99,142323300.0,-0.1,0.24,0.27,103953750.0,58433550.0,0.56,0.02,ShortCover,"BEL,",44.7,2024-06-11,0.11779999999999999
+Dixon Technologies (India) Ltd.,DIXON,100.0,Consumer Durables,Consumer Durables - Electronics,Mid Cap,10140.5,0.54,1493900.0,0.1,0.4,0.55,892500.0,701200.0,0.79,0.07,NewLong,"DIXON,",38.8,2024-06-11,0.0291
+Siemens Ltd.,SIEMENS,150.0,Capital Goods,Electric Equipment,Large Cap,6901.05,0.65,1645200.0,0.1,0.71,0.73,837600.0,468750.0,0.56,-0.04,NewLong,"SIEMENS,",46.56,2024-06-11,0.034
+Bank Of Baroda,BANKBARODA,2925.0,Banking,Bank - Public,Large Cap,274.8,-0.58,148780125.0,0.09,0.29,0.32,44395650.0,29056950.0,0.65,-0.03,NewShort,"BANKBARODA,",47.08,2024-06-11,0.0323
+Tata Motors Ltd.,TATAMOTORS,1425.0,Automobile & Ancillaries,Automobiles-Trucks/Lcv,Large Cap,987.1,1.23,73483500.0,0.09,0.96,1.03,65011925.0,35232675.0,0.54,0.02,NewLong,"TATAMOTORS,",47.67,2024-06-11,0.0524
+HDFC Bank Ltd.,HDFCBANK,550.0,Banking,Bank - Private,Large Cap,1564.8,0.22,180097500.0,0.07,0.53,0.68,44372900.0,22921250.0,0.52,0.02,NewLong,"HDFCBANK,",56.6,2024-06-11,0.030899999999999997
+ITC Ltd.,ITC,1600.0,Fast Moving Consumer Goods,Cigarettes/Tobacco,Large Cap,433.0,-0.89,101582400.0,-0.07,0.44,0.57,81609600.0,27403200.0,0.34,-0.04,LongCover,"ITC,",71.3,2024-06-11,0.053
+HCL Technologies Ltd.,HCLTECH,350.0,Information Technology,IT - Software,Large Cap,1428.8,0.71,21176400.0,0.05,0.48,0.61,7610400.0,3753400.0,0.49,-0.04,NewLong,"HCLTECH,",67.29,2024-06-11,0.0426
+Deepak Nitrite Ltd.,DEEPAKNTR,300.0,Chemicals,Chemicals,Mid Cap,2316.0,0.59,2267700.0,0.01,1.15,1.21,1227600.0,836100.0,0.68,0.01,AggressiveNewLong,"DEEPAKNTR,",43.8,2024-06-11,0.0745
