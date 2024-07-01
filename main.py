@@ -6,12 +6,16 @@ import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
 import plotly.express as px
 import plotly.graph_objs as go
+import chardet
+from data import download_files_from_gdrive
 import plotly.offline as pyo
 
-
+# download_files_from_gdrive()
 # Function to read and concatenate all CSV files
 @st.cache_data
 def load_data():
+    download_files_from_gdrive()
+
     path = 'stockSenseData/'  # Directory containing CSV files
     all_files = glob.glob(os.path.join(path, "*.csv"))
     df_list = []
@@ -32,10 +36,61 @@ def load_data():
     combined_df.set_index('date', inplace=True)
     return combined_df
 
+# @st.cache_data
+# def detect_encoding(file_path):
+#     with open(file_path, 'rb') as f:
+#         result = chardet.detect(f.read())
+#         return result['encoding']
+#
+# @st.cache_data
+# def load_data():
+#     download_files_from_gdrive()
+#     path = 'stockSenseData/'  # Directory containing CSV files
+#     all_files = glob.glob(os.path.join(path, "*.csv"))
+#     df_list = []
+#     try:
+#         for filename in all_files:
+#             # Extract the date from the filename
+#             base_name = os.path.basename(filename)
+#             print(filename)
+#             date_str = base_name.split('_')[-1].replace('.csv', '')
+#             date = pd.to_datetime(date_str, format='%d-%b-%Y')
+#
+#             # Detect encoding and read the CSV file
+#             encoding = detect_encoding(filename)
+#             df = pd.read_csv(filename, encoding=encoding)
+#             df['date'] = date  # Add the date to the DataFrame
+#             df_list.append(df)
+#
+#         if df_list:
+#             combined_df = pd.concat(df_list, axis=0, ignore_index=True)
+#             combined_df = combined_df.sort_values(by='date')
+#             combined_df.set_index('date', inplace=True)
+#             return combined_df
+#         else:
+#             raise ValueError("No CSV files found locally or on Google Drive.")
+#     except Exception as e:
+#         print("exception")
+
+
+        
+        
+        
+
+
 # Load data
-data = load_data()
+
 
 # Sidebar filters
+st.sidebar.header("Filters")
+if st.sidebar.button('SYNC'):
+    with st.spinner('Loading data...'):
+        download_files_from_gdrive()
+        st.success('Data Synced successfully!')
+
+data = load_data()
+# if not data:
+#     data=load_data()
 st.sidebar.header("Filters")
 stock = st.sidebar.selectbox("Select Stock", data['Stock Name'].unique())
 
