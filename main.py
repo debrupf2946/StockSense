@@ -61,7 +61,8 @@ def plot_with_plotly(x, y, z, xlabel, ylabel):
         x=x,
         y=y,
         mode='lines+markers',
-        name=f'Stocks {ylabel}'
+        name=f'Stocks {ylabel}',
+        line=dict(color='blue')
     )
     trace2 = go.Scatter(
         x=x,
