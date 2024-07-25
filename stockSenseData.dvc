@@ -1,0 +1,6 @@
+outs:
+- md5: fff8570625a9d6a1543b7355a9598e73.dir
+  size: 658375
+  nfiles: 18
+  hash: md5
+  path: stockSenseData
