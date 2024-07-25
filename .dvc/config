@@ -1,0 +1,4 @@
+[core]
+    remote = stock_sensedb_remote
+['remote "stock_sensedb_remote"']
+    url = gdrive://1F3jYmF0rGk8ZI1LsbDD-DBKnDqJR2LH5
